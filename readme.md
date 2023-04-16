@@ -79,3 +79,6 @@ Dessa forma, o arquivo resultado será iniciado automaticamente toda vez que o s
 Eventuais danos não são responsabilizados pelo autor. Licença MIT.
 
 # Divirta-se!
+
+Vídeo demonstrativo:
+https://youtu.be/1irogLhqzTs
