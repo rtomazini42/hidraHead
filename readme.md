@@ -32,6 +32,14 @@ Para fazer o resultado.exe iniciar automaticamente ao iniciar o Windows, você p
 Agora, o resultado.exe será iniciado automaticamente toda vez que o Windows for iniciado.
 
 ## Em Linux
+Compile o main.c com o comando abaixo: 
+``` shell
+ gcc -o resultado main.c `pkg-config --cflags --libs gtk+-3.0`
+```
+Execute com:
+``` shell
+ ./resultado
+```
 
 
 
@@ -67,3 +75,5 @@ Dessa forma, o arquivo resultado será iniciado automaticamente toda vez que o s
 
 
 Eventuais danos não são responsabilizados pelo autor. Licença MIT.
+
+# Divirta-se!
