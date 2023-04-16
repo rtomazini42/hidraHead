@@ -31,6 +31,8 @@ Para fazer o resultado.exe iniciar automaticamente ao iniciar o Windows, você p
 
 Agora, o resultado.exe será iniciado automaticamente toda vez que o Windows for iniciado.
 
+Dica: Leve o ".exe" em um pendrive e coloque no computador de seu amigo.
+
 ## Em Linux
 Compile o main.c com o comando abaixo: 
 ``` shell
@@ -41,7 +43,7 @@ Execute com:
  ./resultado
 ```
 
-
+Dica: Leve o "resultado" em um pendrive e coloque no computador de seu amigo.
 
 
 ### Para a brincadeira funcionar no Linux o passo a passo:
